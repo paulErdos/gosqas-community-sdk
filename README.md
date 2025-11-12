@@ -4,6 +4,13 @@
 
 This SDK is your jumping off point. 
 
+# A note to Python Developers
+Try this:
+1. ./install.sh
+2. ./gdt.sh
+
+TS is a superset of JS. It's just a typing system. If you know JS, you can write TS.
+Meaning you can reuse our code.
 
 ## How to Get Started 
 
